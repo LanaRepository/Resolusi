@@ -1,5 +1,8 @@
 RENCANA PROJECT LANA
 
 -bikin aplikasi password generator
+  pakai library random
 -bikin aplikasi color picker
+  pakai library tkinter
 -bikin ai chatbot sederhana
+  pakai library pytorch
