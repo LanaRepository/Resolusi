@@ -2,4 +2,4 @@ resolusi
 -bikin aplikasi password generator
 -bikin aplikasi text editor clone
 -bikin chatbot ai sederhana
--bikin aplikasi pake tkinter
+-bikin aplikasi color picker
