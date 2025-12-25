@@ -1,4 +1,5 @@
 resolusi
 -bikin aplikasi password generator
 -bikin aplikasi text editor clone
--bikin chatbot ai sederhaan
+-bikin chatbot ai sederhana
+-bikin aplikasi pake tkinter
